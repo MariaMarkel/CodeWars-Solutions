@@ -1,3 +1,0 @@
-function findStrangeValue() {
-    return NaN;
-}
